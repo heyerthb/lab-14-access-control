@@ -5,9 +5,9 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [heroku](http://xyz.com) (when applicable)
+* [submission PR](https://github.com/heyerthb/lab-14-access-control/pull/1)
+* [travis](https://travis-ci.com/heyerthb/lab-14-access-control/builds/134801569)
+* [heroku](http://xyz.com) (https://dashboard.heroku.com/apps/heyert-lab-14/deploy/github)
 * [front-end](http://xyz.com) (when applicable)
 
 #### Documentation
