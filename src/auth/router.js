@@ -38,4 +38,38 @@ authRouter.post('/key', auth, (req,res,next) => {
   res.status(200).send(key);
 });
 
+// authRouter.get('/public-stuff'){
+
+// }
+
+// authRouter.get('/hidden-stuff'){
+
+// }
+
+// authRouter.get('/something-to-read'){
+
+// }
+
+// authRouter.post('/create-a-thing'){
+
+// }
+
+// authRouter.put('/update'){
+
+// }
+
+// authRouter.patch('/jp'){
+
+// }
+
+// authRouter.delete('/bye-bye'){
+
+// }
+
+// authRouter.get('/everything'){
+
+// }
+
+
+
 module.exports = authRouter;
